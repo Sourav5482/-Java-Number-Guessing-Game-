@@ -24,6 +24,22 @@ A simple Java-based console application where players guess a randomly generated
 
 - **Sourav Das**
 - 📧 Portfolio: [sourav5482.github.io](https://sourav5482.github.io)
+---
+
+## 📂 File Structure
+
+```
+java-gues-game/
+│
+├── Main.java        
+├── README.md       
+└── screenshots/    # Folder for images
+    ├── level1.png
+    ├── level2.png
+    ├── level3.png
+```
+
+---
 
 ## Overview
 The Number Guessing Game challenges players to guess a randomly generated number. Players select a difficulty level (1, 2, or 3), which determines the range of possible numbers (50, 100, or 500). The game provides hints ("too high" or "too low") after each guess and limits players to 10 attempts.
@@ -51,10 +67,5 @@ The Number Guessing Game challenges players to guess a randomly generated number
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/number-guessing-game.git
-Navigate to the project directory:
-cd number-guessing-game
-##UsageCompile the Java program:
-javac Main.java
-Run the program:
-java Main
+
 LicenseThis project is licensed under the MIT License. See the LICENSE file for details.
