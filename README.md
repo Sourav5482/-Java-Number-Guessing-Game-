@@ -11,7 +11,7 @@ A simple Java-based console application where players guess a randomly generated
 ![LEVEL 1](Guess/screenshots/level1.png)
 
 ### LEVEL 2
-![LEVEL 2(Guess/screenshots/level2.png)
+![LEVEL 2](Guess/screenshots/level2.png)
 
 ### LEVEL 3
 ![LEVEL 3](Guess/screenshots/level3.png)
