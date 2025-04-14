@@ -2,15 +2,28 @@
 
 A simple Java-based console application where players guess a randomly generated number within a specified range based on the chosen difficulty level.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [How to Play](#how-to-play)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
+---
+
+## 📸 Sample Screenshots
+
+###  LEVEL 1
+![LEVEL 1](GUESS/level1.png)
+
+### LEVEL 2
+![LEVEL 2](GUESS/level2.png)
+
+### LEVEL 3
+![LEVEL 3](GUESS/level3.png)
+
+
+
+---
+
+## 🙌 Author
+
+- **Sourav Das**
+- 📧 Portfolio: [sourav5482.github.io](https://sourav5482.github.io)
 
 ## Overview
 The Number Guessing Game challenges players to guess a randomly generated number. Players select a difficulty level (1, 2, or 3), which determines the range of possible numbers (50, 100, or 500). The game provides hints ("too high" or "too low") after each guess and limits players to 10 attempts.
