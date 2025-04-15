@@ -23,7 +23,7 @@ A simple Java-based console application where players guess a randomly generated
 ## 🙌 Author
 
 - **Sourav Das**
-- 📧 Portfolio: [sourav5482.github.io](https://sourav5482.github.io)
+- 📧 Portfolio: [sourav5482.github.io](https://sourav5482.github.io/Portfolio/)
 ---
 
 ## 📂 File Structure
